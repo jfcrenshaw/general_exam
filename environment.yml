@@ -13,3 +13,4 @@ dependencies:
   - jupyterlab=3.4.7
   - pip:
       - pzflow==3.0.2
+      - photerr==1.0.0
